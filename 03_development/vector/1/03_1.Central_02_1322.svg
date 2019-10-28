@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg7034"
+   inkscape:export-filename="/home/keyjoo/Desktop/mos-map-sda/png/sev-vost-r_3_9_Khimki_-1730.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="03_1.Central_02_1322.svg"
+   enable-background="new">
+  <title
+     id="title5307">map-sda-moscow</title>
+  <defs
+     id="defs7028">
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DotM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path13250"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#666666;stroke-width:1pt;stroke-opacity:1;fill:#666666;fill-opacity:1"
+         transform="scale(0.4) translate(7.4, 1)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker20828"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path20826"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#666666;stroke-width:1pt;stroke-opacity:1;fill:#666666;fill-opacity:1"
+         transform="scale(0.8) translate(7.4, 1)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker20758"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path20756"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#666666;stroke-width:1pt;stroke-opacity:1;fill:#666666;fill-opacity:1"
+         transform="scale(0.8) translate(7.4, 1)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker18585"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path18583"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#666666;stroke-width:1pt;stroke-opacity:1;fill:#666666;fill-opacity:1"
+         transform="scale(0.8) translate(7.4, 1)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13994"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DotL">
+      <path
+         transform="scale(0.8) translate(7.4, 1)"
+         style="fill-rule:evenodd;stroke:#666666;stroke-width:1pt;stroke-opacity:1;fill:#666666;fill-opacity:1"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path13992" />
+    </marker>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4948">
+      <feBlend
+         inkscape:collect="always"
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend4950" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748738"
+     inkscape:cx="429.87756"
+     inkscape:cy="424.92865"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer5"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="2046"
+     inkscape:window-height="821"
+     inkscape:window-x="622"
+     inkscape:window-y="142"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       position="9.087164,210.20748"
+       orientation="1,0"
+       id="guide12537"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="289.72017,213.68199"
+       orientation="1,0"
+       id="guide12539"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="158.14454,65.452063"
+       orientation="1,0"
+       id="guide19215"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="156.21904,63.710372"
+       orientation="1,0"
+       id="guide19217"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7031">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>map-sda-moscow</dc:title>
+        <dc:date>2019.10.28</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Vladimir Pavlychev</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>2019 (-c-) Vladimir Pavlychev</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Inksсape</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier>01</dc:identifier>
+        <dc:source>https://github.com/vovs03/map-sda-moscow</dc:source>
+        <dc:relation>map-sda-moscow</dc:relation>
+        <dc:language>RU</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>АСД</rdf:li>
+            <rdf:li>Адвентисты Седьмого Дня</rdf:li>
+            <rdf:li>Карта Московского объединения</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>Карта Московского объединения </dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Vladimir Pavlychev</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Backgound"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.29973197;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect27465"
+       width="296.97067"
+       height="209.65532"
+       x="-0.031204708"
+       y="0.03221206" />
+    <rect
+       ry="0"
+       y="22.60059"
+       x="10.606137"
+       height="180.55232"
+       width="277.60703"
+       id="rect12525"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#d40000;stroke-width:2.99335003;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" />
+    <rect
+       style="display:inline;opacity:1;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:4.63452721;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.15151517;paint-order:stroke markers fill"
+       id="rect12191"
+       width="280.633"
+       height="13.898014"
+       x="9.103282"
+       y="5.8329406"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0.53710413px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="29.415764"
+       y="15.989196"
+       id="text12203"><tspan
+         sodipodi:role="line"
+         id="tspan12201"
+         x="29.415764"
+         y="15.989196"
+         style="fill:#ffffff;stroke-width:0.26458332">1. Центральный район</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.20815277px;line-height:1.25;font-family:sans-serif;letter-spacing:0.2288183px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11271837"
+       x="209.01659"
+       y="217.69077"
+       id="text6448"><tspan
+         sodipodi:role="line"
+         id="tspan6446"
+         x="209.01659"
+         y="217.69077"
+         style="stroke-width:0.11271837">Знак общественного достояния</tspan></text>
+    <g
+       style="display:inline"
+       id="g6455">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.08831406px;line-height:1.25;font-family:sans-serif;letter-spacing:0.11355207px;word-spacing:0px;display:inline;fill:#93a7ac;fill-opacity:1;stroke:none;stroke-width:0.05593698"
+         x="227.41258"
+         y="201.76669"
+         id="text6438"><tspan
+           id="tspan6436"
+           sodipodi:role="line"
+           x="227.41258"
+           y="201.76669"
+           style="font-size:2.04611111px;fill:#93a7ac;stroke-width:0.05593698">2019 Дизайн и оформление:  Владимир Павлычев</tspan></text>
+      <path
+         style="fill:#93a7ac;stroke-width:0.02983596"
+         d="m 225.38938,200.06837 c -0.52728,0 -0.95475,0.42747 -0.95475,0.95475 0,0.52722 0.42747,0.95475 0.95475,0.95475 0.52728,0 0.95475,-0.42753 0.95475,-0.95475 0,-0.52729 -0.42747,-0.95475 -0.95475,-0.95475 z m 0,1.73047 c -0.42776,0 -0.77576,-0.34801 -0.77576,-0.77572 0,-0.0895 0.0155,-0.17553 0.0435,-0.25556 l 0.3034,0.1351 c -0.008,0.0406 -0.0126,0.0829 -0.0126,0.12669 0,0.38116 0.28449,0.48855 0.46349,0.48855 0.10555,0 0.1969,-0.0341 0.26842,-0.0841 0.0136,-0.01 0.0259,-0.0195 0.0372,-0.0296 l -0.13919,-0.16912 c -0.004,0.005 -0.008,0.009 -0.0127,0.0131 -0.0541,0.0513 -0.11364,0.0513 -0.12693,0.0513 -0.14564,0 -0.20659,-0.15365 -0.20741,-0.27674 l 0.83619,0.37229 c 0.001,2.3e-4 0.002,2.3e-4 0.003,3.4e-4 -0.13194,0.24022 -0.38738,0.40333 -0.68022,0.40333 z m 0.74755,-0.57751 -0.86244,-0.38494 c 0.0311,-0.0563 0.0807,-0.0987 0.15476,-0.0987 0.043,0 0.077,0.0142 0.10387,0.0322 0.0111,0.008 0.0208,0.0161 0.029,0.0242 l 0.15546,-0.16001 c -0.10441,-0.0898 -0.22313,-0.10581 -0.30077,-0.10581 -0.18243,0 -0.31153,0.0789 -0.38762,0.19863 l -0.28841,-0.12863 c 0.13881,-0.21117 0.37765,-0.35094 0.64861,-0.35094 0.42776,0 0.77579,0.34797 0.77579,0.77579 0,0.0692 -0.009,0.13626 -0.0264,0.2002 -6.6e-4,-6.6e-4 -0.001,-0.001 -0.002,-0.002 z"
+         id="path3"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Territory"
+     style="display:inline;filter:url(#filter4948)"
+     sodipodi:insensitive="true">
+    <path
+       style="display:inline;opacity:1;fill:#ffccaa;fill-opacity:1;fill-rule:evenodd;stroke:#ccc0a3;stroke-width:1.75663364;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       d="m 142.97196,99.432466 4.39661,-0.55956 0.80902,-1.13253 2.26502,0.56627 0.16201,1.13252 5.90515,8.574864 -2.34585,10.51638 c -7.15042,-1.37408 -13.823,0.35706 -20.54442,3.68107 l -1.7392,-3.36862 -1.52272,-1.42345 1.7836,-5.88033 0.59342,-1.18682 0.0233,0.0351 1.40087,-2.88871 -6.99707,-4.26541 2.83364,-3.731934 -3.79224,-5.940247 -3.29999,-2.711568 -2.8969,-0.389132 -3.27797,-3.818425 1.82802,-2.218065 -2.06164,-0.718264 -13.24192,-13.172701 -4.17331,2.601953 -1.73471,-3.570753 5.27634,-4.180375 2.90681,-5.082914 3.62729,-21.390222 11.12129,-0.0253 2.59703,13.027701 2.27363,-0.443736 8.75026,4.82441 4.76822,4.690491 1.75303,11.905751 2.54962,0.229475 0.4415,11.92894 -1.72241,4.135515 0.18271,6.269296 1.16292,4.16995 -0.061,-0.19065 z"
+       id="path4415" />
+    <path
+       style="display:inline;opacity:1;fill:#e0e0ff;fill-opacity:1;fill-rule:evenodd;stroke:#ccc0a3;stroke-width:1.75600004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       d="m 154.19248,118.40361 c 7.66848,2.1386 12.17307,8.90158 14.77546,18.76938 l 3.39871,12.88649 7.78849,9.06304 5.90164,-0.43718 -3.53674,-8.21124 5.05464,-1.66691 4.98876,10.93692 8.29011,-4.85062 1.61117,1.29898 0.70872,-2.50458 2.04675,0.61985 0.91731,-3.43948 1.24641,0.0738 0.25563,-5.413 8.76776,7.92896 1.27455,0.56644 5.94758,-13.4529 -0.56651,-4.3899 -2.54886,-4.95636 -1.69944,-2.40736 -14.0194,-10.33756 -10.90385,-3.82346 -4.53157,-4.2483 -1.98253,1.27449 -1.84089,-2.83221 -6.08921,-1.13287 c -9.15766,4.10676 -16.04927,4.43731 -20.67512,0.99127 l -2.55371,0.6129 -2.02586,9.08133 v 2e-5 z"
+       id="path4419" />
+    <path
+       style="display:inline;opacity:1;fill:#e0ffe0;fill-opacity:1;fill-rule:evenodd;stroke:#ccc0a3;stroke-width:1.75663364;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       d="m 176.77438,155.18866 -2.37593,1.66306 -5.88354,-2.94181 -1.08382,2.63216 -0.92901,10.21882 -2.32248,0.30966 -5.26425,-2.47729 -0.61936,2.94178 -3.09651,-1.08382 -15.64117,4.15575 -2.78383,-12.05211 4.95466,-0.92898 -0.15491,-3.56112 4.33532,-1.3935 0.77402,-28.79864 1.54846,-0.30966 -1.01852,-5.43189 c 2.27738,-0.16954 4.58801,-0.0551 6.95082,0.399 l 0.55123,-2.4713 -0.52308,2.34499 c 7.66831,2.13859 12.17281,8.90159 14.77546,18.76939 l 3.39871,12.88648 4.40773,5.129 z"
+       id="path4421" />
+    <path
+       style="display:inline;opacity:1;fill:#ffffe0;fill-opacity:1;fill-rule:evenodd;stroke:#ccc0a3;stroke-width:1.75663364;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       d="m 139.54412,170.60793 -2.73736,0.7905 -0.49712,-1.54057 -4.79976,-0.92899 -0.61934,3.4063 -10.06397,-3.71595 -0.82743,2.39262 -1.89669,-0.99429 -4.87476,6.8005 -2.46529,3.41354 -2.16764,3.40629 0.46466,0.92899 -2.78701,3.25147 -4.63739,-0.55966 -0.0229,-0.0319 -4.23171,-4.95731 -0.004,-0.0251 3.61236,-2.61579 10.78112,-16.0962 5.53629,-12.42824 1.86851,-3.8614 2.98946,-4.23506 3.73683,-3.23859 1.56359,-2.26997 2.04859,-8.06859 1.43912,-4.56776 2.66757,-2.65166 c 4.66725,-2.30803 13.55966,-4.24859 13.59273,-4.07973 l 0.16626,0.8489 0.85226,4.58301 -1.54828,0.30966 -0.77428,28.79864 -4.33523,1.39348 0.15482,3.56111 -4.9546,0.929 2.7702,12.05278 -1.9e-4,-7e-5 z m -44.04031,12.62632 v -9e-5 c 0.0274,-0.0166 0.0549,-0.0334 0.0823,-0.0501 -0.0274,0.0168 -0.0549,0.0334 -0.0823,0.0502 z m 0.46299,-0.28557 c 7.4e-4,-4.9e-4 0.002,-0.002 0.004,-0.002 -7.5e-4,5e-4 -0.002,0.002 -0.004,0.002 z m 0.0836,-0.0522 c 0.0364,-0.0228 0.073,-0.0457 0.10934,-0.0687 -0.0364,0.023 -0.073,0.0458 -0.10934,0.0687 z m 0.32768,-0.20703 c 0.0192,-0.0121 0.0382,-0.0244 0.0573,-0.0365 -0.019,0.0122 -0.038,0.0244 -0.0573,0.0365 z"
+       id="path4423" />
+    <path
+       style="display:inline;opacity:1;fill:#ffffe0;fill-opacity:1;fill-rule:evenodd;stroke:#ccc0a3;stroke-width:1.75663364;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       id="polygon4425"
+       d="m 181.56932,46.937788 c -2.7178,-1.025685 -5.43561,-2.051379 -8.15341,-3.077072 -0.65502,-0.122203 -1.80958,-1.191428 -2.65692,-1.678121 -1.19874,-0.727616 -1.35515,-2.353137 -2.09443,-3.47659 -0.27556,-0.568162 -1.3574,-2.800864 -1.11456,-2.298692 0.35574,0.943674 -1.82779,0.766957 -2.53734,1.240631 -0.72701,0.496212 -2.87196,0.236582 -2.51856,1.308705 0.72868,2.336961 1.45745,4.673915 2.18612,7.010869 -1.67848,-0.59556 -0.47256,1.303744 -0.44492,2.183894 1.03832,4.476314 2.07672,8.95262 3.11504,13.428934 -1.18646,0.134829 -2.37292,0.269657 -3.5593,0.404488 -1.4561,4.637931 -2.9122,9.275872 -4.36831,13.913813 -1.69901,-0.350451 -3.39804,-0.700886 -5.09706,-1.051329 -0.28902,3.850584 -0.4076,7.744581 -0.80317,11.568058 -1.02655,2.210993 -2.053,4.421985 -3.07955,6.632978 1.08634,0.159809 2.5649,0.08337 1.54571,1.51121 -0.64543,1.013939 -0.48968,2.033882 0.1706,2.477612 -0.69828,0.55151 -2.61325,1.65406 -0.60817,1.12283 1.20549,0.0694 2.04949,-0.43963 2.5107,-1.561277 1.75714,-2.488159 3.32205,-5.147362 5.19785,-7.529842 2.69551,-2.317749 5.39101,-4.635488 8.08652,-6.953234 6.30115,-0.729012 12.60221,-1.458031 18.90327,-2.187034 0.36869,-2.172979 0.73737,-4.345951 1.10596,-6.518923 4.31921,-3.239199 8.63842,-6.478389 12.95762,-9.71759 1.13652,0.852542 2.27305,1.705069 3.40957,2.557611 2.492,-3.197561 4.984,-6.395124 7.476,-9.592688 -9.87639,-3.239748 -19.75279,-6.479492 -29.62926,-9.719241 z" />
+    <path
+       style="display:inline;opacity:1;fill:#e0ffe0;fill-opacity:1;fill-rule:evenodd;stroke:#ccc0a3;stroke-width:1.75663364;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       d="m 238.06921,70.125035 -3.12047,-6.837208 -4.80088,-4.95104 -6.57646,-0.69874 v -0.176668 l -11.81567,-0.621846 -0.5544,-0.181885 -7.47625,9.592186 -3.40973,-2.557318 -12.95712,9.717831 -1.10645,6.518755 -18.90303,2.187119 -8.35799,7.186265 -5.82683,8.6311 -2.6935,0.35029 -0.0267,0.02 v 0.004 l 0.16176,1.13253 5.9054,8.574864 -0.29185,1.30875 2.55354,-0.61287 c 4.62584,3.44604 11.51747,3.1155 20.67511,-0.99129 l 6.08921,1.13289 1.8409,2.83219 1.98253,-1.27448 4.50584,4.2241 2.48674,-3.06062 -2.38261,-8.4181 1.42955,-3.494324 h 9.3711 l 3.33566,-2.70015 1.27064,-2.700162 0.15874,-3.335466 3.81208,-8.100471 3.01784,-2.223659 4.92361,4.764987 16.78005,-15.240523 v -7.7e-5 z"
+       id="path4427" />
+    <path
+       style="display:inline;opacity:1;fill:#e0e0ff;fill-opacity:1;fill-rule:evenodd;stroke:#ccc0a3;stroke-width:1.75663364;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       d="m 73.880957,73.038325 23.811963,-3.751192 1.63095,3.914272 3.9143,-2.772607 12.88437,12.88448 2.60953,0.978572 -1.95714,2.283325 3.26191,3.914281 1.63095,-1.141676 4.89287,4.240464 3.63363,5.884962 c -1.46002,1.957614 -0.27076,0.647134 -2.70339,3.739064 l 6.82073,4.36228 -1.55333,2.81249 -0.97858,-1.46786 -4.24049,-1.30475 -0.48928,1.30475 h -0.81548 l -0.81547,-0.32619 -1.95715,0.97856 -0.16311,-0.97856 -2.44642,0.48927 -10.76432,-5.21901 -0.32619,1.14165 -4.89269,-3.2619 -0.65238,4.89286 -7.3393,0.16309 -2.44644,4.56665 -0.48928,0.48929 -1.48877,0.11029 c -0.045,-0.0923 -0.0922,-0.18336 -0.14219,-0.27338 -0.463715,-0.83374 -2.817225,-1.49404 -4.574335,-1.78935 -0.535936,-0.15067 -1.076351,-0.23459 -1.623293,-0.1678 -3.677869,0.0558 -7.354988,0.9283 -10.764325,2.77263 -1.812524,0.77126 -3.073806,2.46579 -4.566675,3.75118 -2.421982,2.08567 -4.577307,4.49976 -7.176023,6.3607 -1.838658,1.31641 -3.839457,2.55619 -6.034535,3.0988 -2.748924,0.67941 -5.649564,0.52599 -8.480973,0.48928 -1.376242,-0.0179 -2.406873,-0.59473 -3.430788,-1.51456 l -3.754012,-3.37255 c 0,0 -4.181321,-11.17181 -6.308282,-16.48125 -2.127159,-5.309414 -2.210009,-4.33917 -2.210009,-4.33917 l 7.084021,-5.288023 -0.0222,-0.0267 0.658353,-0.389251 1.721459,3.44284 7.746299,-5.508524 7.574238,-12.910639 9.295716,-5.852799 6.369129,-0.860711 0.0028,-0.07223 0.0636,0.005 v 9.2e-5 z"
+       id="path4429" />
+    <path
+       style="display:inline;opacity:1;fill:#ffb2b6;fill-opacity:1;fill-rule:evenodd;stroke:#ccc0a3;stroke-width:1.75663364;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       d="m 97.37755,182.24456 3.61236,-2.61579 11.08584,-15.94377 5.23157,-12.58066 1.86832,-3.8614 2.98947,-4.23507 3.73682,-3.23859 1.86851,-2.11754 1.74386,-8.22102 1.74385,-4.11052 2.36657,-3.11404 -1.66754,-3.82037 -1.40907,-1.93102 -5.37171,-1.6262 -1.42027,4.03046 -2.7006,-0.35532 -0.28421,3.34009 -4.61929,-1.20813 -9.22312,2.32976 0.67365,1.91308 -2.67932,1.0748 -0.78655,-2.34652 -3.31939,-0.70303 -6.85132,2.0977 c -0.007,0.0216 -0.0157,0.0432 -0.0239,0.0646 -1.880262,4.90719 -3.779365,9.87084 -6.523811,14.35237 -1.606518,2.62344 -3.846005,4.91519 -6.360737,6.68689 l -14.352412,10.11188 -0.0075,-0.0126 -2.417514,2.25289 c -2.236124,2.0837 -3.377799,5.5408 -3.891349,8.55402 -0.479389,2.81358 -0.392998,5.80904 0.388904,8.554 2.614191,9.1777 10.043813,12.23129 18.468801,13.42934 5.56217,-0.70919 8.968474,-0.90924 18.006578,-6.8748 l 0.12764,0.1497 -0.004,-0.0251 v -1.2e-4 z"
+       id="path4431"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccc" />
+    <path
+       style="display:inline;opacity:1;fill:#e0ffe0;fill-opacity:1;fill-rule:evenodd;stroke:#ccc0a3;stroke-width:1.75663364;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       d="m 132.29401,111.53874 -1.50946,5.28905 -5.57195,-1.84236 -1.45686,3.8731 -2.7004,-0.35532 -0.28439,3.34007 -4.6193,-1.2081 -9.45171,2.55835 1.64533,2.40842 -3.84152,0.96052 -0.67217,-2.57514 -2.93851,-1.00789 -6.92729,2.02153 c 0.33964,-0.95013 0.19837,-2.02456 0.13904,-3.03417 -0.10283,-1.75003 -0.26293,-3.49205 -0.5645,-5.21903 -0.27935,-1.60042 -0.37787,-3.32698 -1.08698,-4.78255 l 1.48838,-0.11031 0.48928,-0.48929 2.44644,-4.56666 7.3393,-0.16307 0.65238,-4.89284 4.89287,3.26188 0.3262,-1.14167 9.92606,3.84735 3.51328,0.0442 0.2913,0.83827 1.13625,-0.87031 2.66047,-0.26067 1.11612,-3.49621 5.8192,3.23774 -2.25686,4.33517 z"
+       id="path4433" />
+    <path
+       inkscape:connector-curvature="0"
+       style="clip-rule:evenodd;display:inline;opacity:1;fill:#ffb2b6;fill-opacity:1;fill-rule:evenodd;stroke:#ccc0a3;stroke-width:1.75600004;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       d="m 248.80566,150.84223 17.06806,3.28234 2.62589,2.63897 -3.28233,4.60841 9.84699,14.4685 -6.56466,17.77708 -3.28233,5.26485 -10.50347,-4.6084 10.50347,-5.26486 -11.81638,-13.16867 -16.41161,0.65644 -6.56466,7.90384 -11.17302,-1.96938 -0.65648,-10.54285 -2.62585,-2.62582 8.53403,-8.56034 17.08122,-21.71587 5.90816,3.95194 z"
+       id="_186718616"
+       inkscape:label="#_Dzerzhinsky" />
+    <path
+       style="display:inline;opacity:1;fill:#ffb2b6;fill-opacity:1;fill-rule:evenodd;stroke:#ccc0a3;stroke-width:1.75663364;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       id="polygon4417"
+       d="m 150.44295,93.048354 c 0.83022,0.243474 2.56056,-0.05517 1.63389,1.246351 -0.18597,0.92678 -1.21043,2.122269 0.12392,2.561791 -0.35498,0.36962 -1.40382,1.6125 -2.23229,1.32934 -0.96626,-0.24642 -2.05527,-0.82585 -2.45,0.47771 -0.75365,0.53304 -1.95497,0.31679 -2.88348,0.55711 -1.08499,-0.0918 -1.8925,0.903644 -1.89827,-0.52449 -0.52609,-1.66915 -1.24074,-3.306517 -1.05535,-5.095605 0.0518,-1.6705 -0.26764,-3.413515 0.0134,-5.039218 0.44726,-1.268346 1.2789,-2.464969 1.48775,-3.777815 -0.1585,-3.860765 -0.31699,-7.721518 -0.47557,-11.582283 -0.75649,-0.253099 -2.43653,0.550477 -2.51186,-0.482021 -0.52175,-3.862126 -1.04349,-7.724249 -1.56524,-11.586382 -1.67298,-1.57109 -3.50686,-3.048119 -5.0813,-4.676813 0.50267,-0.293875 0.67947,-1.76328 1.96151,-1.378557 1.29196,0.244289 1.25559,-1.118494 1.63148,-1.982503 0.47702,-1.649911 1.45302,-3.226664 1.09683,-4.998755 -0.14136,-3.537376 -0.28273,-7.074759 -0.4241,-10.612143 6.36064,0.706673 12.72132,1.413363 19.08193,2.120037 0.01,-3.634036 -0.02,-7.270212 0.0151,-10.902922 1.32642,1.3526 2.44891,2.960476 4.24631,3.723616 2.07872,1.290675 4.34392,2.409149 6.30707,3.806467 0.83373,1.061021 -1.28525,0.819328 -1.88483,1.248 -1.0819,0.321709 -2.16373,0.643426 -3.24555,0.965143 0.78194,2.507707 1.5639,5.015406 2.34577,7.523106 -1.55455,-0.586934 -0.62563,0.974294 -0.5306,1.814219 1.06688,4.599529 2.13385,9.199073 3.20072,13.798609 -1.18638,0.134829 -2.37284,0.269657 -3.55929,0.404488 -1.45611,4.637931 -2.91221,9.275872 -4.36831,13.913813 -1.69894,-0.350451 -3.39796,-0.700886 -5.09699,-1.051329 -0.28501,3.845974 -0.41452,7.73152 -0.79615,11.552894 -1.02888,2.216053 -2.05777,4.432095 -3.08656,6.648142 z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="Churches"
+     style="display:inline;opacity:1"
+     sodipodi:insensitive="true">
+    <g
+       id="g7096"
+       transform="translate(-216.28718,84.908519)"
+       style="display:inline"
+       inkscape:label="#Dmitrovskaya">
+      <g
+         id="g7116"
+         transform="matrix(0.66700989,0,0,0.66700989,85.370932,28.812754)">
+        <rect
+           style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.28071591;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+           id="rect7082"
+           width="36.237019"
+           height="4.5987911"
+           x="218.08478"
+           y="157.59496"
+           inkscape:export-filename="/home/keyjoo/Desktop/mos-map-sda/png/orion_3-5.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <g
+           transform="translate(13.944886,26.851586)"
+           id="g7106">
+          <text
+             inkscape:export-ydpi="300"
+             inkscape:export-xdpi="300"
+             inkscape:export-filename="/home/keyjoo/Desktop/mos-map-sda/png/orion_3-5.png"
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:3.75537324px;line-height:1.25;font-family:sans-serif;letter-spacing:0.20419842px;word-spacing:0px;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.10059038"
+             x="206.63287"
+             y="134.47159"
+             id="text7086"><tspan
+               id="tspan7084"
+               sodipodi:role="line"
+               x="206.63287"
+               y="134.47159"
+               style="font-weight:bold;text-align:start;letter-spacing:0.02116667px;text-anchor:start;fill:#d40000;stroke-width:0.10059038">ДМИТРОВСКАЯ</tspan></text>
+          <g
+             inkscape:export-ydpi="300"
+             inkscape:export-xdpi="300"
+             inkscape:export-filename="/home/keyjoo/Desktop/mos-map-sda/png/orion_3-5.png"
+             id="g7094">
+            <circle
+               style="opacity:1;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.34177509;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+               id="circle7088"
+               cx="204.20422"
+               cy="132.26013"
+               r="1.5511596" />
+            <path
+               sodipodi:type="star"
+               style="opacity:1;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.11435395;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+               id="path7090"
+               sodipodi:sides="3"
+               sodipodi:cx="202.31964"
+               sodipodi:cy="137.18051"
+               sodipodi:r1="2.1519012"
+               sodipodi:r2="2.1403139"
+               sodipodi:arg1="0.95677729"
+               sodipodi:arg2="0.95835871"
+               inkscape:flatsided="false"
+               inkscape:rounded="0.04"
+               inkscape:randomized="0"
+               d="m 203.55947,138.93934 c 5e-5,4.9e-4 -0.009,-0.007 -0.009,-0.008 -0.13489,-0.0624 -3.23871,-1.4944 -3.3735,-1.557 -4.4e-4,-2e-4 0.0108,-0.004 0.0112,-0.004 0.12147,-0.0856 2.91354,-2.05759 3.03515,-2.14303 3.9e-4,-2.8e-4 -0.002,0.0115 -0.002,0.0119 0.0134,0.14801 0.32516,3.552 0.33834,3.70003 z"
+               inkscape:transform-center-x="-0.22701353"
+               inkscape:transform-center-y="0.59525644"
+               transform="matrix(0.55438962,0.40943768,-0.40943768,0.55438962,148.17564,-25.029292)" />
+            <circle
+               r="0.83704883"
+               cy="132.28937"
+               cx="204.21675"
+               id="circle7092"
+               style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.18443134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:label="#Zelenograd"
+       style="display:inline"
+       transform="translate(-216.28718,81.841079)"
+       id="g7136">
+      <g
+         transform="matrix(0.66700989,0,0,0.66700989,85.370932,28.812754)"
+         id="g7134">
+        <rect
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:export-filename="/home/keyjoo/Desktop/mos-map-sda/png/orion_3-5.png"
+           y="157.59496"
+           x="218.08478"
+           height="4.5987911"
+           width="31.91614"
+           id="rect7118"
+           style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26344866;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" />
+        <g
+           id="g7132"
+           transform="translate(13.944886,26.851586)">
+          <text
+             id="text7122"
+             y="134.47159"
+             x="206.63287"
+             style="font-style:normal;font-weight:normal;font-size:3.75537324px;line-height:1.25;font-family:sans-serif;letter-spacing:0.20419842px;word-spacing:0px;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.10059038"
+             xml:space="preserve"
+             inkscape:export-filename="/home/keyjoo/Desktop/mos-map-sda/png/orion_3-5.png"
+             inkscape:export-xdpi="300"
+             inkscape:export-ydpi="300"><tspan
+               style="font-weight:bold;text-align:start;letter-spacing:0.02116667px;text-anchor:start;fill:#d40000;stroke-width:0.10059038"
+               y="134.47159"
+               x="206.63287"
+               sodipodi:role="line"
+               id="tspan7120">ЗЕЛЕНОГРАД</tspan></text>
+          <g
+             id="g7130"
+             inkscape:export-filename="/home/keyjoo/Desktop/mos-map-sda/png/orion_3-5.png"
+             inkscape:export-xdpi="300"
+             inkscape:export-ydpi="300">
+            <circle
+               r="1.5511596"
+               cy="132.26013"
+               cx="204.20422"
+               id="circle7124"
+               style="opacity:1;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.34177509;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" />
+            <path
+               transform="matrix(0.55438962,0.40943768,-0.40943768,0.55438962,148.17564,-25.029292)"
+               inkscape:transform-center-y="0.59525644"
+               inkscape:transform-center-x="-0.22701353"
+               d="m 203.55947,138.93934 c 5e-5,4.9e-4 -0.009,-0.007 -0.009,-0.008 -0.13489,-0.0624 -3.23871,-1.4944 -3.3735,-1.557 -4.4e-4,-2e-4 0.0108,-0.004 0.0112,-0.004 0.12147,-0.0856 2.91354,-2.05759 3.03515,-2.14303 3.9e-4,-2.8e-4 -0.002,0.0115 -0.002,0.0119 0.0134,0.14801 0.32516,3.552 0.33834,3.70003 z"
+               inkscape:randomized="0"
+               inkscape:rounded="0.04"
+               inkscape:flatsided="false"
+               sodipodi:arg2="0.95835871"
+               sodipodi:arg1="0.95677729"
+               sodipodi:r2="2.1403139"
+               sodipodi:r1="2.1519012"
+               sodipodi:cy="137.18051"
+               sodipodi:cx="202.31964"
+               sodipodi:sides="3"
+               id="path7126"
+               style="opacity:1;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.11435395;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+               sodipodi:type="star" />
+            <circle
+               style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.18443134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+               id="circle7128"
+               cx="204.21675"
+               cy="132.28937"
+               r="0.83704883" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:label="#Khimki"
+       style="display:inline"
+       transform="translate(-216.28718,87.975959)"
+       id="g7156">
+      <g
+         transform="matrix(0.66700989,0,0,0.66700989,85.370932,28.812754)"
+         id="g7154">
+        <rect
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:export-filename="/home/keyjoo/Desktop/mos-map-sda/png/orion_3-5.png"
+           y="157.59496"
+           x="218.08478"
+           height="4.5987911"
+           width="19.803514"
+           id="rect7138"
+           style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.20752095;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" />
+        <g
+           id="g7152"
+           transform="translate(13.944886,26.851586)">
+          <text
+             id="text7142"
+             y="134.47159"
+             x="206.63287"
+             style="font-style:normal;font-weight:normal;font-size:3.75537324px;line-height:1.25;font-family:sans-serif;letter-spacing:0.20419842px;word-spacing:0px;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.10059038"
+             xml:space="preserve"
+             inkscape:export-filename="/home/keyjoo/Desktop/mos-map-sda/png/orion_3-5.png"
+             inkscape:export-xdpi="300"
+             inkscape:export-ydpi="300"><tspan
+               style="font-weight:bold;text-align:start;letter-spacing:0.02116667px;text-anchor:start;fill:#d40000;stroke-width:0.10059038"
+               y="134.47159"
+               x="206.63287"
+               sodipodi:role="line"
+               id="tspan7140">ХИМКИ</tspan></text>
+          <g
+             id="g7150"
+             inkscape:export-filename="/home/keyjoo/Desktop/mos-map-sda/png/orion_3-5.png"
+             inkscape:export-xdpi="300"
+             inkscape:export-ydpi="300">
+            <circle
+               r="1.5511596"
+               cy="132.26013"
+               cx="204.20422"
+               id="circle7144"
+               style="opacity:1;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.34177509;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" />
+            <path
+               transform="matrix(0.55438962,0.40943768,-0.40943768,0.55438962,148.17564,-25.029292)"
+               inkscape:transform-center-y="0.59525644"
+               inkscape:transform-center-x="-0.22701353"
+               d="m 203.55947,138.93934 c 5e-5,4.9e-4 -0.009,-0.007 -0.009,-0.008 -0.13489,-0.0624 -3.23871,-1.4944 -3.3735,-1.557 -4.4e-4,-2e-4 0.0108,-0.004 0.0112,-0.004 0.12147,-0.0856 2.91354,-2.05759 3.03515,-2.14303 3.9e-4,-2.8e-4 -0.002,0.0115 -0.002,0.0119 0.0134,0.14801 0.32516,3.552 0.33834,3.70003 z"
+               inkscape:randomized="0"
+               inkscape:rounded="0.04"
+               inkscape:flatsided="false"
+               sodipodi:arg2="0.95835871"
+               sodipodi:arg1="0.95677729"
+               sodipodi:r2="2.1403139"
+               sodipodi:r1="2.1519012"
+               sodipodi:cy="137.18051"
+               sodipodi:cx="202.31964"
+               sodipodi:sides="3"
+               id="path7146"
+               style="opacity:1;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.11435395;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+               sodipodi:type="star" />
+            <circle
+               style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.18443134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+               id="circle7148"
+               cx="204.21675"
+               cy="132.28937"
+               r="0.83704883" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <rect
+       style="clip-rule:evenodd;opacity:1;fill:#ffffe0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.14013228;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       id="rect4857"
+       width="20.995949"
+       height="20.995949"
+       x="-21.027153"
+       y="104.70778" />
+    <rect
+       y="125.70372"
+       x="-21.027153"
+       height="20.995949"
+       width="20.995949"
+       id="rect4859"
+       style="clip-rule:evenodd;opacity:1;fill:#ffe0e0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.14013228;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+    <rect
+       y="146.69968"
+       x="-21.027153"
+       height="20.995949"
+       width="20.995949"
+       id="rect4861"
+       style="clip-rule:evenodd;opacity:1;fill:#e0ffe0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.14013228;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+    <rect
+       style="clip-rule:evenodd;opacity:1;fill:#ffccaa;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.14013228;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       id="rect4863"
+       width="20.995949"
+       height="20.995949"
+       x="-21.027153"
+       y="167.69562" />
+    <rect
+       y="188.69157"
+       x="-21.027153"
+       height="20.995949"
+       width="20.995949"
+       id="rect4865"
+       style="clip-rule:evenodd;opacity:1;fill:#e0e0ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.14013228;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Central districts"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.87558508px;line-height:1.25;font-family:sans-serif;letter-spacing:0.31948495px;word-spacing:0px;display:inline;opacity:1;fill:#918a6f;fill-opacity:1;stroke:none;stroke-width:0.15738179"
+       x="156.91339"
+       y="106.8426"
+       id="text6048"><tspan
+         sodipodi:role="line"
+         x="157.07314"
+         y="106.8426"
+         style="text-align:center;text-anchor:middle;fill:#918a6f;stroke-width:0.15738179"
+         id="tspan6044">Центральный</tspan><tspan
+         id="tspan6046"
+         sodipodi:role="line"
+         x="157.07314"
+         y="114.18708"
+         style="text-align:center;text-anchor:middle;fill:#918a6f;stroke-width:0.15738179">А.О.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.60676026px;line-height:1.25;font-family:sans-serif;letter-spacing:0.19611759px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09660964"
+       x="97.45446"
+       y="114.27409"
+       id="text5545"><tspan
+         id="tspan5543"
+         sodipodi:role="line"
+         x="97.45446"
+         y="114.27409"
+         style="font-size:3.53387094px;fill:#6c6753;stroke-width:0.09660964">Арбат</tspan></text>
+    <text
+       id="text5265"
+       y="149.54076"
+       x="137.43405"
+       style="font-style:normal;font-weight:normal;font-size:3.60676026px;line-height:1.25;font-family:sans-serif;letter-spacing:0.19611759px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09660964"
+       xml:space="preserve"
+       transform="rotate(-19.541648)"><tspan
+         style="font-size:3.53387094px;fill:#6c6753;stroke-width:0.09660964"
+         y="149.54076"
+         x="137.43405"
+         sodipodi:role="line"
+         id="tspan5263">Басманный</tspan></text>
+    <text
+       id="text5269"
+       y="-75.435959"
+       x="183.86652"
+       style="font-style:normal;font-weight:normal;font-size:3.60676026px;line-height:1.25;font-family:sans-serif;letter-spacing:0.19611759px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09660964"
+       xml:space="preserve"
+       transform="rotate(63.531254)"><tspan
+         style="font-size:3.53387094px;fill:#6c6753;stroke-width:0.09660964"
+         y="-75.435959"
+         x="183.86652"
+         sodipodi:role="line"
+         id="tspan5267">Замоскворечье</tspan></text>
+    <text
+       id="text5273"
+       y="199.03148"
+       x="-37.879581"
+       style="font-style:normal;font-weight:normal;font-size:3.60676026px;line-height:1.25;font-family:sans-serif;letter-spacing:0.19611759px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09660964"
+       xml:space="preserve"
+       transform="rotate(-47.606443)"><tspan
+         style="font-size:3.53387094px;fill:#6c6753;stroke-width:0.09660964"
+         y="199.03148"
+         x="-37.879581"
+         sodipodi:role="line"
+         id="tspan5271">	Якиманка</tspan></text>
+    <text
+       transform="rotate(-47.606443)"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.60676026px;line-height:1.25;font-family:sans-serif;letter-spacing:0.19611759px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09660964"
+       x="-63.742756"
+       y="177.0439"
+       id="text5277"><tspan
+         id="tspan5275"
+         sodipodi:role="line"
+         x="-63.742756"
+         y="177.0439"
+         style="font-size:3.53387094px;fill:#6c6753;stroke-width:0.09660964">Хамовники</tspan></text>
+    <text
+       id="text5281"
+       y="117.0253"
+       x="29.273537"
+       style="font-style:normal;font-weight:normal;font-size:3.60676026px;line-height:1.25;font-family:sans-serif;letter-spacing:0.19611759px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09660964"
+       xml:space="preserve"
+       transform="rotate(-12.631409)"><tspan
+         style="font-size:3.53387094px;fill:#6c6753;stroke-width:0.09660964"
+         y="117.0253"
+         x="29.273537"
+         sodipodi:role="line"
+         id="tspan5279">Пресненский</tspan></text>
+    <text
+       transform="rotate(47.298396)"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.60676026px;line-height:1.25;font-family:sans-serif;letter-spacing:0.19611759px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09660964"
+       x="132.64406"
+       y="-38.856827"
+       id="text5285"><tspan
+         id="tspan5283"
+         sodipodi:role="line"
+         x="132.64406"
+         y="-38.856827"
+         style="font-size:3.53387094px;fill:#6c6753;stroke-width:0.09660964">Тверской</tspan></text>
+    <text
+       id="text5289"
+       y="-93.007568"
+       x="119.3671"
+       style="font-style:normal;font-weight:normal;font-size:3.60676026px;line-height:1.25;font-family:sans-serif;letter-spacing:0.19611759px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09660964"
+       xml:space="preserve"
+       transform="rotate(56.431209)"><tspan
+         style="font-size:3.53387094px;fill:#6c6753;stroke-width:0.09660964"
+         y="-93.007568"
+         x="119.3671"
+         sodipodi:role="line"
+         id="tspan5287">Мещанский</tspan></text>
+    <text
+       transform="rotate(-30.602674)"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.60676026px;line-height:1.25;font-family:sans-serif;letter-spacing:0.19611759px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09660964"
+       x="103.81848"
+       y="149.8038"
+       id="text5293"><tspan
+         id="tspan5291"
+         sodipodi:role="line"
+         x="103.81848"
+         y="149.8038"
+         style="font-size:3.53387094px;fill:#6c6753;stroke-width:0.09660964">Красносельский</tspan></text>
+    <text
+       id="text5297"
+       y="7.4204092"
+       x="218.90234"
+       style="font-style:normal;font-weight:normal;font-size:3.60676026px;line-height:1.25;font-family:sans-serif;letter-spacing:0.19611759px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09660964"
+       xml:space="preserve"
+       transform="rotate(33.284773)"><tspan
+         style="font-size:3.53387094px;fill:#6c6753;stroke-width:0.09660964"
+         y="7.4204092"
+         x="218.90234"
+         sodipodi:role="line"
+         id="tspan5295">Таганский</tspan></text>
+    <text
+       id="text6936"
+       y="213.38103"
+       x="184.60846"
+       style="font-style:normal;font-weight:normal;font-size:6.33746481px;line-height:1.25;font-family:sans-serif;letter-spacing:0.34459963px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16975352"
+       xml:space="preserve"
+       transform="rotate(-11.014368)"><tspan
+         id="tspan6934"
+         style="font-weight:bold;font-size:5.29166651px;letter-spacing:0.11377083px;fill:#918a6f;stroke-width:0.16975352"
+         y="213.38103"
+         x="184.60846"
+         sodipodi:role="line">Дзержинский</tspan></text>
+  </g>
+</svg>
