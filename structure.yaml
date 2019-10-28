@@ -6,6 +6,7 @@ NameProject:
   01_incoming:
   02_inspiration:
   03_development:
+    # mkdir _archive _fonts img html vector pdf && touch 03_README.txt
     - _archive: "Хранение версий файлов"
     - _fonts: "Шрифты"
     - img: "Изображения из внешних источников"
