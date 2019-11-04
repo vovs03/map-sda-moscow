@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" 
+   xmlns:cc="http://creativecommons.org/ns#" 
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+   xmlns:svg="http://www.w3.org/2000/svg" 
+   xmlns="http://www.w3.org/2000/svg" 
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" 
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="3.1023192mm" height="4.6331921mm" viewBox="0 0 3.1023192 4.6331921" version="1.1" id="svg7034" inkscape:export-xdpi="96" inkscape:export-ydpi="96" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="03_Marker_20191104_1409.svg">
+   <defs id="defs7028">
+      <marker inkscape:stockid="DotM" orient="auto" refY="0" refX="0" id="DotM" style="overflow:visible" inkscape:isstock="true">
+         <path id="path13250" d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z" style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#666666;stroke-width:1.00000003pt;stroke-opacity:1" transform="matrix(0.4,0,0,0.4,2.96,0.4)" inkscape:connector-curvature="0" />
+      </marker>
+      <marker inkscape:stockid="DotL" orient="auto" refY="0" refX="0" id="marker20828" style="overflow:visible" inkscape:isstock="true">
+         <path id="path20826" d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z" style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#666666;stroke-width:1.00000003pt;stroke-opacity:1" transform="matrix(0.8,0,0,0.8,5.92,0.8)" inkscape:connector-curvature="0" />
+      </marker>
+      <marker inkscape:stockid="DotL" orient="auto" refY="0" refX="0" id="marker20758" style="overflow:visible" inkscape:isstock="true">
+         <path id="path20756" d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z" style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#666666;stroke-width:1.00000003pt;stroke-opacity:1" transform="matrix(0.8,0,0,0.8,5.92,0.8)" inkscape:connector-curvature="0" />
+      </marker>
+      <marker inkscape:stockid="DotL" orient="auto" refY="0" refX="0" id="marker18585" style="overflow:visible" inkscape:isstock="true">
+         <path id="path18583" d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z" style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#666666;stroke-width:1.00000003pt;stroke-opacity:1" transform="matrix(0.8,0,0,0.8,5.92,0.8)" inkscape:connector-curvature="0" />
+      </marker>
+      <marker inkscape:isstock="true" style="overflow:visible" id="marker13994" refX="0" refY="0" orient="auto" inkscape:stockid="DotL">
+         <path transform="matrix(0.8,0,0,0.8,5.92,0.8)" style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#666666;stroke-width:1.00000003pt;stroke-opacity:1" d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z" id="path13992" inkscape:connector-curvature="0" />
+      </marker>
+   </defs>
+   <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="5.6" inkscape:cx="5.8054092" inkscape:cy="-24.511019" inkscape:document-units="mm" inkscape:current-layer="g5303" showgrid="false" showguides="true" inkscape:guide-bbox="true" inkscape:window-width="1629" inkscape:window-height="921" inkscape:window-x="11" inkscape:window-y="76" inkscape:window-maximized="0" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0">
+      <sodipodi:guide position="-82.750637,188.29824" orientation="1,0" id="guide12537" inkscape:locked="false" />
+      <sodipodi:guide position="197.88238,191.77275" orientation="1,0" id="guide12539" inkscape:locked="false" />
+      <sodipodi:guide position="66.306743,43.542816" orientation="1,0" id="guide19215" inkscape:locked="false" />
+      <sodipodi:guide position="64.381243,41.801125" orientation="1,0" id="guide19217" inkscape:locked="false" />
+   </sodipodi:namedview>
+   <metadata id="metadata7031">
+      <rdf:RDF>
+         <cc:Work rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+            <dc:title></dc:title>
+         </cc:Work>
+      </rdf:RDF>
+   </metadata>
+   <g inkscape:groupmode="layer" id="layer1" inkscape:label="Backgound 1" style="display:inline" sodipodi:insensitive="true" transform="translate(-91.837799,-183.45756)">
+      <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0.53710413px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332" x="178.21577" y="243.2619" id="text5325">
+         <tspan sodipodi:role="line" id="tspan5323" x="178.21577" y="243.2619" style="stroke-width:0.26458332"></tspan>
+      </text>
+      <g transform="translate(-84.545916,96.168602)" id="g6418" style="display:inline;opacity:1">
+         <rect style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.21268922;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" id="rect6404" width="20.802202" height="4.5987911" x="204.13989" y="130.74338" inkscape:export-filename="/home/keyjoo/Desktop/mos-map-sda/png/orion_3-5.png" inkscape:export-xdpi="300" inkscape:export-ydpi="300" />
+         <text id="text6408" y="134.47159" x="215.25232" style="font-style:normal;font-weight:normal;font-size:3.75537324px;line-height:1.25;font-family:sans-serif;letter-spacing:0.20419842px;word-spacing:0px;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.10059038" xml:space="preserve" inkscape:export-filename="/home/keyjoo/Desktop/mos-map-sda/png/orion_3-5.png" inkscape:export-xdpi="300" inkscape:export-ydpi="300">
+            <tspan style="font-weight:bold;text-align:center;letter-spacing:0.02116667px;text-anchor:middle;fill:#d40000;stroke-width:0.10059038" y="134.47159" x="215.26291" sodipodi:role="line" id="tspan6406">ПРИМЕР</tspan>
+         </text>
+         <g id="g6416" inkscape:export-filename="/home/keyjoo/Desktop/mos-map-sda/png/orion_3-5.png" inkscape:export-xdpi="300" inkscape:export-ydpi="300">
+            <circle r="1.5511596" cy="132.26013" cx="204.20422" id="circle6410" style="opacity:1;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.34177509;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" />
+            <path transform="matrix(0.55438962,0.40943768,-0.40943768,0.55438962,148.17564,-25.029292)" inkscape:transform-center-y="0.59525644" inkscape:transform-center-x="-0.22701353" d="m 203.55947,138.93934 c 5e-5,4.9e-4 -0.009,-0.007 -0.009,-0.008 -0.13489,-0.0624 -3.23871,-1.4944 -3.3735,-1.557 -4.4e-4,-2e-4 0.0108,-0.004 0.0112,-0.004 0.12147,-0.0856 2.91354,-2.05759 3.03515,-2.14303 3.9e-4,-2.8e-4 -0.002,0.0115 -0.002,0.0119 0.0134,0.14801 0.32516,3.552 0.33834,3.70003 z" inkscape:randomized="0" inkscape:rounded="0.04" inkscape:flatsided="false" sodipodi:arg2="0.95835871" sodipodi:arg1="0.95677729" sodipodi:r2="2.1403139" sodipodi:r1="2.1519012" sodipodi:cy="137.18051" sodipodi:cx="202.31964" sodipodi:sides="3" id="path6412" style="opacity:1;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.11435395;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" sodipodi:type="star" />
+            <circle style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.18443134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" id="circle6414" cx="204.21675" cy="132.28937" r="0.83704883" />
+         </g>
+      </g>
+   </g>
+   <g style="display:inline" inkscape:label="Marker" id="g5303" inkscape:groupmode="layer" transform="translate(-91.837799,-183.45756)">
+      <text id="text5285" y="243.2619" x="178.21577" style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0.53710413px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332" xml:space="preserve">
+         <tspan style="stroke-width:0.26458332" y="243.2619" x="178.21577" id="tspan5283" sodipodi:role="line"></tspan>
+      </text>
+      <g id="g5334" transform="translate(-6.4255953,3.6380208)">
+         <g transform="translate(-104.38967,49.110566)" inkscape:export-ydpi="300" inkscape:export-xdpi="300" inkscape:export-filename="/home/keyjoo/Desktop/mos-map-sda/png/orion_3-5.png" id="g5299">
+            <circle style="opacity:1;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.34177509;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" id="circle5293" cx="204.20422" cy="132.26013" r="1.5511596" />
+            <path sodipodi:type="star" style="opacity:1;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.11435395;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" id="path5295" sodipodi:sides="3" sodipodi:cx="202.31964" sodipodi:cy="137.18051" sodipodi:r1="2.1519012" sodipodi:r2="2.1403139" sodipodi:arg1="0.95677729" sodipodi:arg2="0.95835871" inkscape:flatsided="false" inkscape:rounded="0.04" inkscape:randomized="0" d="m 203.55947,138.93934 c 5e-5,4.9e-4 -0.009,-0.007 -0.009,-0.008 -0.13489,-0.0624 -3.23871,-1.4944 -3.3735,-1.557 -4.4e-4,-2e-4 0.0108,-0.004 0.0112,-0.004 0.12147,-0.0856 2.91354,-2.05759 3.03515,-2.14303 3.9e-4,-2.8e-4 -0.002,0.0115 -0.002,0.0119 0.0134,0.14801 0.32516,3.552 0.33834,3.70003 z" inkscape:transform-center-x="-0.22701353" inkscape:transform-center-y="0.59525644" transform="matrix(0.55438962,0.40943768,-0.40943768,0.55438962,148.17564,-25.029292)" />
+            <circle r="0.83704883" cy="132.28937" cx="204.21675" id="circle5297" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.18443134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" />
+         </g>
+      </g>
+   </g>
+</svg>
