@@ -10,6 +10,7 @@
 │   └── README.md
 ├── 02_inspiration
 │   ├── 02_Moscow_all_districts_20191031_1622.svg
+│   ├── 03_2_South-Western_01.svg
 │   ├── adventist-symbol-svg--symbol
 │   │   ├── adventist-symbol--black.svg
 │   │   ├── adventist-symbol--bluejay.svg
@@ -66,6 +67,9 @@
 │   │   ├── adventist-symbol (copy).svg
 │   │   └── adventist-symbol.svg
 │   ├── pdf
+│   │   ├── 02_1947.pdf
+│   │   ├── 02_1947_R.pdf
+│   │   ├── 02_2008_R.pdf
 │   │   ├── 03_1_1208_.pdf
 │   │   └── 03_3_1306_3_S-V_r.pdf
 │   └── vector
@@ -76,6 +80,8 @@
 │       │   ├── Central_all.yaml
 │       │   └── README.md
 │       ├── 2
+│       │   ├── 03_2.South-Western-reg_20191104_1731.svg
+│       │   └── 03_2.South-Western-reg_20191104_1946.svg
 │       ├── 3
 │       │   └── 03_3.Central-reg_20191104_1300_004.svg
 │       ├── 4
@@ -90,6 +96,6 @@
 ├── TREE.md
 └── version
 
-19 directories, 66 files
+19 directories, 72 files
 
 ```
