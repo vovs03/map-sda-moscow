@@ -60,6 +60,7 @@
 │   │           ├── 03_3.Central-reg1508_002.svg
 │   │           └── 03_3.Central-reg_20191104_1226_003.svg
 │   ├── img
+│   │   ├── 03_1.1_Vostochnyi_ao.png
 │   │   ├── 03_1.2_Yuzhny_ao.png
 │   │   ├── 03_1.3_Yugo-vostochnyi_ao.png
 │   │   ├── 03_1.4_Yugo-zapadnyi_ao.png
@@ -71,23 +72,45 @@
 │   │   ├── 02_1947_R.pdf
 │   │   ├── 02_2008_R.pdf
 │   │   ├── 03_1_1208_.pdf
-│   │   └── 03_3_1306_3_S-V_r.pdf
+│   │   ├── 03_3_1306_3_S-V_r.pdf
+│   │   ├── 03_6-01_0815.pdf
+│   │   ├── 03_6-01_0815_R.pdf
+│   │   ├── 03_6_ALL_alpha_1.pdf
+│   │   ├── 03_6_all_R.pdf
+│   │   ├── 03_6.Mos-All.pdf
+│   │   ├── 03_6.Mos-All_r.pdf
+│   │   ├── 04vost.pdf
+│   │   ├── 04vost_r.pdf
+│   │   └── 06-to-pptx.otg
 │   └── vector
 │       ├── 03_Marker_20191104_1409.svg
 │       ├── 1
 │       │   ├── 03_1.Central_04_20191104_Churches_1105.svg
 │       │   ├── 03_1.Central_04_20191104_Churches_1203.svg
+│       │   ├── 03_1.Central_05_20191106_COLOR_0653.svg
 │       │   ├── Central_all.yaml
 │       │   └── README.md
 │       ├── 2
+│       │   ├── 03_2.South-Western-COLOR_20191106_0707.svg
 │       │   ├── 03_2.South-Western-reg_20191104_1731.svg
 │       │   └── 03_2.South-Western-reg_20191104_1946.svg
 │       ├── 3
+│       │   ├── 03_3.Central-COLOR_20191106_0652_005.svg
 │       │   └── 03_3.Central-reg_20191104_1300_004.svg
 │       ├── 4
+│       │   ├── 03_4.Eastern-PRE_20191105_1136.svg
+│       │   ├── 03_4.Eastern-PRE_20191105_1138_1148.svg
+│       │   ├── 03_4.Eastern-PRE_20191105_1138.svg
+│       │   ├── 03_4.Eastern-reg_20191105_1128.svg
+│       │   ├── 03_4.Eastern-reg_20191105_1150_02.svg
+│       │   ├── 03_4.Eastern-reg_20191106_0501_03.svg
+│       │   └── 03_4.Eastern-reg_20191106_0628_04.svg
 │       ├── 5
 │       ├── 6
-│       │   └── 03_6.All-MO-Churches-2019.svg
+│       │   ├── 03_6.All-MO-Churches-20191106_0715.svg
+│       │   ├── 03_6.All-MO-Churches-2019_20191106_0633_01.svg
+│       │   ├── 03_6.All-MO-Churches-2019.svg
+│       │   └── 03_6.MOTitle-2019_20191106_0805_01.svg
 │       └── Marker.svg
 ├── 04_final
 ├── CHANGELOG.md
@@ -96,6 +119,6 @@
 ├── TREE.md
 └── version
 
-19 directories, 72 files
+19 directories, 95 files
 
 ```

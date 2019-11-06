@@ -100,18 +100,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="720.88622"
-     inkscape:cy="479.80954"
+     inkscape:cx="445.37396"
+     inkscape:cy="396.1352"
      inkscape:document-units="mm"
-     inkscape:current-layer="svg7034"
+     inkscape:current-layer="layer2"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="2560"
-     inkscape:window-height="1026"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-width="1712"
+     inkscape:window-height="936"
+     inkscape:window-x="814"
+     inkscape:window-y="95"
+     inkscape:window-maximized="0">
     <sodipodi:guide
        position="9.087164,210.20748"
        orientation="1,0"
@@ -969,18 +969,6 @@
        inkscape:connector-curvature="0"
        style="clip-rule:evenodd;display:inline;fill:#ddff55;fill-opacity:1;fill-rule:evenodd;stroke:#ccc0a3;stroke-width:0.23454078;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
     <text
-       id="text7001"
-       y="113.64048"
-       x="83.390182"
-       style="font-style:normal;font-weight:normal;font-size:3.09531808px;line-height:1.25;font-family:sans-serif;letter-spacing:0.16830792px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08291031"
-       xml:space="preserve"
-       transform="rotate(-18.15826)"><tspan
-         id="tspan6999"
-         style="font-weight:bold;font-size:2.58453345px;letter-spacing:0.05556747px;fill:#918a6f;stroke-width:0.08291031"
-         y="113.64048"
-         x="83.390182"
-         sodipodi:role="line">Власиха</tspan></text>
-    <text
        transform="rotate(-18.15826)"
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.09531808px;line-height:1.25;font-family:sans-serif;letter-spacing:0.16830792px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08291031"
@@ -1039,7 +1027,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Titles"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        id="g5446">
       <text
@@ -1298,12 +1286,25 @@
          x="161.56517"
          id="tspan5792"
          sodipodi:role="line">Южное Бутово</tspan></text>
+    <text
+       id="text7001"
+       y="113.64048"
+       x="83.390182"
+       style="font-style:normal;font-weight:normal;font-size:3.09531808px;line-height:1.25;font-family:sans-serif;letter-spacing:0.16830792px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08291031"
+       xml:space="preserve"
+       transform="rotate(-18.15826)"><tspan
+         id="tspan6999"
+         style="font-weight:bold;font-size:2.58453345px;letter-spacing:0.05556747px;fill:#918a6f;stroke-width:0.08291031"
+         y="113.64048"
+         x="83.390182"
+         sodipodi:role="line">Власиха</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Общины"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     style="display:inline">
     <g
        inkscape:groupmode="layer"
        id="layer6"
