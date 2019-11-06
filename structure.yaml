@@ -2,6 +2,10 @@
 # 2019-10-27 11:57
 # For every New project
 
+Meta:
+  - Author: "Vladimir Pavlychev"
+  - Github-profile: "https://github.com/vovs03/"
+
 NameProject:
   01_incoming:
   02_inspiration:
